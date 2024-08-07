@@ -1,0 +1,27 @@
+  496  ssh mat@192.168.29.47
+  497  ssh mat@192.168.29.47
+  498  mkdir centos
+  499  mkdir ubuntu
+  500  clrscr
+  501  clear
+  502  ls
+  503  cd centos/
+  504  vagrant init eurolinux-vagrant/centos-stream-9
+  505  cat Vagrantfile
+  506  vagrant up
+  507  vagrant status
+  508  vagrant ssh
+  509  valgrant halt
+  510  vagrant halt
+  511  vagrant up
+  512  cd ..
+  513  ls
+  514  cd ubuntu
+  515  vagrant init ubuntu/jammy64
+  516  vagrant status
+  517  vaagrant up
+  518  vagrant up
+  519  vagrant up
+  520  vagrant status
+  521  vagrant global-status
+  522  history
