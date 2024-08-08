@@ -1,0 +1,47 @@
+08-08-2024
+    1  whoami
+    2  pwd
+    3  sudo -i
+    4  exit
+    5  whoami
+    6  pwd
+    7  cat /home/vagrant
+    8  cat /etc/os-release
+    9  sudo -i
+   10  exit
+   11  ls
+   12  pwd
+   13  mkdir dev
+   14  mkdir ops backupdir
+   15  ls
+   16  touch devopsfile{1..10}.txt
+   17  ls
+   18  cp devopsfile1.txt dev/
+   19  ls dev/
+   20  pwd
+   21  ls
+   22  cp -r dev backupdir
+   23  ls backupdir
+   24  ls backupdir/dev
+   25  ls
+   26  mv ops dev/
+   27  ls
+   28  ls dev/
+   29  mv devopsfile1.tx textfile22.txt
+   30  mv devopsfile1.txt textfile22.txt
+   31  ls
+   32  mkdir textdir
+   33  ls
+   34  mv *.txt textdir/
+   35  ls
+   36  cd textdir/
+   37  ls
+   38  history
+   39  rm devopsfile10.txt
+   40  ls
+   41  ls -a
+   42  mkdir mobile
+   43  ls
+   44  rm -r mobile
+   45  ls
+   46  history
