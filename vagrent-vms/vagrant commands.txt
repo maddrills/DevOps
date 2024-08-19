@@ -25,3 +25,36 @@
   520  vagrant status
   521  vagrant global-status
   522  history
+
+
+
+
+
+    1  sudo yum install vim -y
+    2  yum update -y
+    3  sudo apt-get update
+    4  sudo yum install vim -y
+    5  sudo apt install vim -y
+    6  vim -v
+    7  vim firstfile.txt
+    8  cat firstfile.txt
+    9  vim firstfile.txt
+   10  cat firstfile.txt
+   11  vim firstfile.txt
+   12  cat firstfile.txt
+   13  vim firstfile.txt
+   14  cat firstfile.txt
+   15  sudo -r
+   16  sudo
+   17  sudo -i
+   18  sude -i
+   19  pwd
+   20  sudo -i
+   21  free -m | grep m
+   22  free -m | tail
+   23  free -m | 1tail
+   24  free -m | -11tai
+   25  yem locate -y
+   26  yum install m\locate
+   27  yum install mlocate
+   28  history
